@@ -2,6 +2,6 @@
 /test
 /train.zip
 /test.zip
-/tmp
+/gitignore
 train_data_loaded.npy
 train_labels_loaded.npy
